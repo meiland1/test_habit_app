@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:habit_speed_code/pages/habitsPage.dart';
-import 'package:habit_speed_code/pages/profilePage.dart';
-import 'package:habit_speed_code/pages/progressPage.dart';
+import 'pages/habitsPage.dart';
+import 'pages/profilePage.dart';
+import 'pages/progressPage.dart';
 
 import 'pages/homePage.dart';
 
